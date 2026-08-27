@@ -1,0 +1,6 @@
+S001,Basic Car Inspection,Normal,50.0
+S002,Oil Change,Normal,80.0
+S003,Tyre Pressure & Rotation,Normal,60.0
+S004,Full Vehicle Service,Major,99.0
+S005,Brake System Overhaul,Major,35.0
+S006,Air Conditioning Service,Major,30.0

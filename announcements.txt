@@ -1,0 +1,8 @@
+AN001,M001,ROLE,Customer,,test,2026-04-26 01:31:19
+AN002,M001,ALL_USERS,,,test,2026-05-04 13:45:05
+AN003,M002,ROLE,Counter Staff,,Please Report at the meeting room at 9am on the 7th of May for a meeting.,2026-05-06 09:46:46
+AN004,M002,USER,,T003,No scheduled appointments for you tommorow so you can have an extra day off!,2026-05-06 09:47:52
+AN006,M002,USER,,CS002,Please send me the latest receipts.,2026-05-06 09:51:17
+AN007,M002,USER,,C001,Please ensure to collect your car within the next week.,2026-05-06 09:52:29
+AN008,M002,ROLE,Counter Staff,,Please be on time to work.,2026-05-29 14:16:51
+AN009,M002,USER,,T005,Welcome to the team,2026-05-29 14:17:16
