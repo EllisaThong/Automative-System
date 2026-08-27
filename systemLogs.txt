@@ -1,0 +1,376 @@
+2026-05-05 09:18:26 - (Manager) M001 cleared the system logs of MAY, 2026
+2026-05-05 09:18:27 - (Manager)M001 opened the manager function page.
+2026-05-05 09:18:37 - (Manager) M001 [Wesley Wong] logout the system.
+2026-05-05 09:18:38 - SYSTEM CLOSED: application terminated by user
+2026-05-07 13:34:07 - SYSTEM CLOSED: application terminated by user
+2026-05-08 14:54:59 - SYSTEM CLOSED: application terminated by user
+2026-05-08 15:17:05 - SYSTEM CLOSED: application terminated by user
+2026-05-08 15:17:44 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-08 15:17:45 - (Counter Staff)CS002 opened the anouncement center Counter Staff function.
+2026-05-08 15:17:59 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-08 15:18:01 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-08 15:18:01 - SYSTEM CLOSED: application terminated by user
+2026-05-08 15:19:27 - SYSTEM CLOSED: application terminated by user
+2026-05-08 15:20:45 - SYSTEM CLOSED: application terminated by user
+2026-05-08 15:21:27 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-08 15:21:32 - (Counter Staff)CS002 opened the anouncement center Counter Staff function.
+2026-05-08 15:21:54 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-08 15:21:56 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-08 15:21:56 - SYSTEM CLOSED: application terminated by user
+2026-05-08 15:22:33 - SYSTEM CLOSED: application terminated by user
+2026-05-08 16:27:42 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-08 16:28:19 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-08 16:28:23 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-08 16:28:58 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-08 16:29:11 - (Manager)M001 opened the manager function page.
+2026-05-08 16:29:13 - (Manager)M001 opened the anouncement center Manager function.
+2026-05-08 16:29:29 - (Manager)M001 opened the manager function page.
+2026-05-08 16:29:56 - (Manager)M001 opened the approve reject register request Manager function.
+2026-05-08 16:29:57 - (Manager)M001 opened the manager function page.
+2026-05-08 16:29:57 - (Manager)M001 opened the view system log Manager function.
+2026-05-08 16:29:58 - (Manager)M001 opened the manager function page.
+2026-05-08 16:29:59 - (Manager)M001 opened the view appointment feedback Manager function.
+2026-05-08 16:30:10 - (Manager)M001 opened the manager function page.
+2026-05-08 16:30:12 - (Manager) M001 [Wesley Wong] logout the system.
+2026-05-08 16:30:13 - SYSTEM CLOSED: application terminated by user
+2026-05-15 16:10:28 - (Customer)C001 opened the customer function page.
+2026-05-15 16:10:30 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-15 16:10:49 - (Customer)C001 opened the customer function page.
+2026-05-15 16:10:51 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-15 16:15:21 - SYSTEM CLOSED: application terminated by user
+2026-05-17 23:36:39 - (Customer)C001 opened the customer function page.
+2026-05-17 23:36:42 - (Customer)C001 opened the service history management Customer function.
+2026-05-17 23:37:06 - (Customer)C001 submitted rating for appointment [A001] value: 5
+2026-05-17 23:39:50 - (Customer)C001 opened the customer function page.
+2026-05-17 23:39:52 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-17 23:39:53 - SYSTEM CLOSED: application terminated by user
+2026-05-17 23:40:19 - (Customer)C001 opened the customer function page.
+2026-05-17 23:40:21 - (Customer)C001 opened the service history management Customer function.
+2026-05-17 23:42:20 - (Customer)C001 updated rating for appointment [A001] to value: 3
+2026-05-17 23:42:26 - (Customer)C001 submitted rating for appointment [A002] value: 3
+2026-05-17 23:42:36 - (Customer)C001 updated rating for appointment [A002] to value: 4
+2026-05-17 23:47:46 - (Customer)C001 opened the customer function page.
+2026-05-17 23:47:48 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-17 23:47:49 - SYSTEM CLOSED: application terminated by user
+2026-05-17 23:48:13 - (Customer)C001 opened the customer function page.
+2026-05-17 23:48:14 - (Customer)C001 opened the service history management Customer function.
+2026-05-17 23:48:17 - (Customer)C001 updated rating for appointment [A001] to value: 4
+2026-05-17 23:48:19 - (Customer)C001 updated rating for appointment [A001] to value: 3
+2026-05-17 23:48:33 - (Customer)C001 updated rating for appointment [A002] to value: 1
+2026-05-17 23:48:39 - (Customer)C001 updated rating for appointment [A002] to value: 4
+2026-05-17 23:48:49 - (Customer)C001 opened the customer function page.
+2026-05-17 23:48:50 - (Customer)C001 opened the anouncement center Customer function.
+2026-05-17 23:48:52 - (Customer)C001 opened the customer function page.
+2026-05-17 23:48:55 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-17 23:49:10 - (Manager)M001 opened the manager function page.
+2026-05-17 23:49:14 - (Manager)M001 opened the view report Manager function.
+2026-05-17 23:49:33 - (Manager)M001 opened the manager function page.
+2026-05-17 23:49:46 - (Manager)M001 opened the manage service Manager function.
+2026-05-17 23:49:47 - (Manager)M001 opened the manager function page.
+2026-05-17 23:50:08 - (Manager)M001 opened the view appointment feedback Manager function.
+2026-05-17 23:50:21 - (Manager) M001 deleted rating: 3 from appointment: A001
+2026-05-17 23:54:47 - (Manager)M001 opened the manager function page.
+2026-05-17 23:57:12 - (Customer)C001 opened the customer function page.
+2026-05-17 23:57:13 - (Customer)C001 opened the service history management Customer function.
+2026-05-17 23:57:21 - (Customer)C001 rated appointment [A001] value: 2
+2026-05-17 23:59:28 - (Customer)C001 opened the customer function page.
+2026-05-17 23:59:30 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-17 23:59:30 - SYSTEM CLOSED: application terminated by user
+2026-05-17 23:59:52 - (Customer)C001 opened the customer function page.
+2026-05-17 23:59:53 - (Customer)C001 opened the service history management Customer function.
+2026-05-17 23:59:56 - (Customer)C001 cancelled rating for appointment [A001]
+2026-05-18 00:00:03 - (Customer)C001 cancelled rating for appointment [A002]
+2026-05-18 00:00:05 - (Customer)C001 rated appointment [A002] value: 4
+2026-05-18 00:00:09 - (Customer)C001 cancelled rating for appointment [A002]
+2026-05-18 00:00:12 - (Customer)C001 rated appointment [A002] value: 1
+2026-05-18 00:00:14 - (Customer)C001 updated rating for appointment [A002] to value: 4
+2026-05-18 00:00:16 - (Customer)C001 cancelled rating for appointment [A002]
+2026-05-18 00:04:57 - (Customer)C001 opened the customer function page.
+2026-05-18 00:05:00 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-18 00:05:01 - SYSTEM CLOSED: application terminated by user
+2026-05-18 00:17:47 - (Customer)C001 opened the customer function page.
+2026-05-18 00:17:48 - (Customer)C001 opened the service history management Customer function.
+2026-05-18 00:17:52 - (Customer)C001 rated appointment [A002] value: 2
+2026-05-18 00:19:53 - (Customer)C001 opened the customer function page.
+2026-05-18 00:19:55 - (Customer)C001 opened the anouncement center Customer function.
+2026-05-18 00:20:01 - (Customer)C001 opened the customer function page.
+2026-05-18 00:20:04 - (Customer)C001 opened the service history management Customer function.
+2026-05-18 00:20:18 - (Customer)C001 opened the customer function page.
+2026-05-18 00:20:21 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-18 00:20:22 - SYSTEM CLOSED: application terminated by user
+2026-05-19 12:53:58 - (Customer)C001 opened the customer function page.
+2026-05-19 12:55:30 - (Customer)C001 opened the service history management Customer function.
+2026-05-19 12:56:11 - (Customer)C001 rated appointment [A001] value: 1
+2026-05-19 12:56:13 - (Customer)C001 updated rating for appointment [A001] to value: 2
+2026-05-19 12:56:16 - (Customer)C001 cancelled rating for appointment [A001]
+2026-05-19 12:56:18 - (Customer)C001 rated appointment [A001] value: 3
+2026-05-19 12:56:19 - (Customer)C001 updated rating for appointment [A001] to value: 1
+2026-05-19 12:56:21 - (Customer)C001 cancelled rating for appointment [A001]
+2026-05-19 12:56:35 - (Customer)C001 rated appointment [A001] value: 5
+2026-05-19 12:56:40 - (Customer)C001 cancelled rating for appointment [A001]
+2026-05-19 12:58:07 - (Customer)C001 rated appointment [A001] value: 3
+2026-05-19 12:58:10 - (Customer)C001 cancelled rating for appointment [A001]
+2026-05-19 12:58:20 - (Customer)C001 updated rating for appointment [A002] to value: 5
+2026-05-19 12:58:23 - (Customer)C001 updated rating for appointment [A002] to value: 2
+2026-05-19 12:58:28 - (Customer)C001 opened the customer function page.
+2026-05-19 12:58:40 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-19 12:58:41 - SYSTEM CLOSED: application terminated by user
+2026-05-22 14:48:00 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-22 14:48:05 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-22 14:48:15 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-22 14:48:17 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-22 14:48:21 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-22 14:48:23 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-22 14:48:39 - (Counter Staff)CS002 paid appointment A002 | receipt R002 | method Card | RM 1.00
+2026-05-22 14:52:43 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-22 14:52:47 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-22 14:52:58 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-22 14:53:00 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-22 14:53:01 - SYSTEM CLOSED: application terminated by user
+2026-05-22 14:53:39 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-22 14:53:40 - (Counter Staff)CS002 opened the manage payment Counter Staff function.
+2026-05-22 14:53:51 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-22 14:53:53 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-22 14:53:53 - SYSTEM CLOSED: application terminated by user
+2026-05-22 14:54:43 - (Manager)M001 opened the manager function page.
+2026-05-22 14:54:44 - (Manager)M001 opened the view report Manager function.
+2026-05-22 14:55:13 - (Manager)M001 opened the manager function page.
+2026-05-22 14:55:14 - (Manager)M001 opened the anouncement center Manager function.
+2026-05-22 14:55:18 - (Manager)M001 opened the manager function page.
+2026-05-22 14:55:20 - (Manager)M001 opened the manage service Manager function.
+2026-05-22 14:55:27 - (Manager)M001 opened the manager function page.
+2026-05-22 14:55:28 - (Manager) M001 [Wesley Wong] logout the system.
+2026-05-22 14:55:29 - SYSTEM CLOSED: application terminated by user
+2026-05-22 15:06:53 - (Manager)M001 opened the manager function page.
+2026-05-22 15:06:55 - (Manager)M001 opened the view appointment feedback Manager function.
+2026-05-22 15:07:09 - (Manager)M001 opened the manager function page.
+2026-05-22 15:07:10 - (Manager) M001 [Wesley Wong] logout the system.
+2026-05-22 15:07:11 - SYSTEM CLOSED: application terminated by user
+2026-05-25 02:06:06 - (Customer)C001 opened the customer function page.
+2026-05-25 02:07:09 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-25 02:07:16 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-25 02:07:26 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-25 02:07:35 - (Customer)C001 opened the customer function page.
+2026-05-25 02:07:36 - (Customer)C001 opened the update personal info Customer function.
+2026-05-25 02:07:37 - (Customer)C001 opened the customer function page.
+2026-05-25 02:07:38 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-25 02:08:01 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-25 02:10:03 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-25 02:10:12 - (Manager)M001 opened the manager function page.
+2026-05-25 02:14:21 - (Manager) M001 [Wesley Wong] logout the system.
+2026-05-25 02:14:22 - SYSTEM CLOSED: application terminated by user
+2026-05-28 12:59:57 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 13:00:06 - (Counter Staff)CS002 opened the anouncement center Counter Staff function.
+2026-05-28 13:00:07 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 13:00:09 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 13:00:36 - (Technician)T001 opened the technician function page.
+2026-05-28 13:00:47 - (Technician) T001 [Sin Lee Soh] logout the system.
+2026-05-28 13:00:57 - (Manager)M001 opened the manager function page.
+2026-05-28 13:01:04 - (Manager)M001 opened the manage user Manager function.
+2026-05-28 13:01:13 - (Manager)M001 opened the manager function page.
+2026-05-28 13:01:20 - (Manager) M001 [Wesley Wong] logout the system.
+2026-05-28 13:02:18 - (Manager)M001 opened the manager function page.
+2026-05-28 13:02:20 - (Manager)M001 opened the manage service Manager function.
+2026-05-28 13:02:20 - (Manager)M001 opened the manager function page.
+2026-05-28 13:02:21 - (Manager)M001 opened the add user Manager function.
+2026-05-28 13:02:22 - (Manager)M001 opened the manager function page.
+2026-05-28 13:02:23 - (Manager)M001 opened the manage user Manager function.
+2026-05-28 13:02:24 - (Manager)M001 opened the manager function page.
+2026-05-28 13:02:25 - (Manager)M001 opened the view appointment feedback Manager function.
+2026-05-28 13:02:55 - (Manager)M001 opened the manager function page.
+2026-05-28 13:02:58 - (Manager)M001 opened the anouncement center Manager function.
+2026-05-28 13:51:40 - (Manager)M001 opened the manager function page.
+2026-05-28 13:51:41 - (Manager) M001 [Wesley Wong] logout the system.
+2026-05-28 13:51:42 - SYSTEM CLOSED: application terminated by user
+2026-05-28 20:22:18 - (Customer)C001 opened the customer function page.
+2026-05-28 20:24:10 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-28 20:34:17 - (Customer)C001 opened the customer function page.
+2026-05-28 20:34:18 - (Customer)C001 opened the service history management Customer function.
+2026-05-28 20:34:53 - (Customer)C001 rated appointment [A001] value: 3
+2026-05-28 20:35:50 - (Customer)C001 updated rating for appointment [A001] to value: 4
+2026-05-28 20:40:15 - (Customer)C001 cancelled rating for appointment [A001]
+2026-05-28 20:42:16 - (Customer)C001 rated appointment [A001] value: 3
+2026-05-28 20:44:39 - (Customer)C001 opened the customer function page.
+2026-05-28 20:44:42 - (Customer) C001 [Penny Lim] logout the system.
+2026-05-28 20:44:59 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:05 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-28 20:45:06 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:07 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:45:09 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:10 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-28 20:45:14 - (Counter Staff)CS002 paid appointment A002 | receipt R003 | method Cash | RM 2.00
+2026-05-28 20:45:15 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:16 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:45:20 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:21 - (Counter Staff)CS002 opened the manage payment Counter Staff function.
+2026-05-28 20:45:24 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:37 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:45:39 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:40 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-28 20:45:45 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:45:46 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 20:45:47 - SYSTEM CLOSED: application terminated by user
+2026-05-28 20:47:14 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:47:15 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:47:17 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:47:17 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-28 20:47:19 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:47:20 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:53:17 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:53:19 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 20:53:20 - SYSTEM CLOSED: application terminated by user
+2026-05-28 20:53:54 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:53:55 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:53:56 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:53:59 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 20:54:00 - SYSTEM CLOSED: application terminated by user
+2026-05-28 20:57:15 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:57:16 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:57:18 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:59:39 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:59:41 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 20:59:42 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:59:43 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-28 20:59:47 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 20:59:48 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 20:59:49 - SYSTEM CLOSED: application terminated by user
+2026-05-28 21:00:33 - (Counter Staff)CS005 opened the counter staff function page.
+2026-05-28 21:00:34 - (Counter Staff)CS005 opened the generate receiptCounter Staff function.
+2026-05-28 21:00:59 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 21:00:59 - SYSTEM CLOSED: application terminated by user
+2026-05-28 21:02:15 - (Counter Staff) CS005 generated receipt: R001 for appointment: A001
+2026-05-28 21:03:53 - (Counter Staff)CS005 opened the counter staff function page.
+2026-05-28 21:03:55 - (Counter Staff) CS005 [Gary Josh] logout the system.
+2026-05-28 21:03:55 - SYSTEM CLOSED: application terminated by user
+2026-05-28 21:04:10 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:04:12 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-28 21:04:13 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:04:14 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 21:04:15 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:04:16 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 21:13:48 - SYSTEM CLOSED: application terminated by user
+2026-05-28 21:15:54 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:15:55 - (Counter Staff)CS002 opened the pay appointment Counter Staff function.
+2026-05-28 21:15:57 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:15:57 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 21:15:59 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:16:00 - (Counter Staff)CS002 opened the anouncement center Counter Staff function.
+2026-05-28 21:16:01 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:16:02 - (Counter Staff) CS002 opened Manage Receipt page (All Payments)Counter Staff function.
+2026-05-28 21:16:04 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:16:05 - (Counter Staff)CS002 opened the manage payment Counter Staff function.
+2026-05-28 21:16:07 - (Counter Staff) CS002 opened Manage Receipt page for payment: P001Counter Staff function.
+2026-05-28 21:16:08 - (Counter Staff)CS002 opened the manage payment Counter Staff function.
+2026-05-28 21:16:09 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:16:10 - (Counter Staff) CS002 opened Manage Receipt page (All Payments)Counter Staff function.
+2026-05-28 21:16:15 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:16:57 - (Counter Staff)CS002 opened the generate receiptCounter Staff function.
+2026-05-28 21:17:00 - (Counter Staff) CS002 generated receipt: R003 for appointment: A002
+2026-05-28 21:17:57 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:17:59 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 21:23:59 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:24:02 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 21:24:13 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:24:14 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 21:24:15 - SYSTEM CLOSED: application terminated by user
+2026-05-28 21:25:45 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:25:46 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 21:26:00 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:26:01 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 21:27:02 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:27:03 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 21:27:05 - SYSTEM CLOSED: application terminated by user
+2026-05-28 21:27:20 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:27:21 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 21:38:46 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:38:47 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 21:46:43 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:46:47 - (Counter Staff)CS002 opened the manage payment Counter Staff function.
+2026-05-28 21:46:49 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 21:57:42 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 21:57:49 - (Counter Staff) CS002 created appointment: A007 [Customer: C001, Service: S001, Date: 29 May 2026, Time: 10:00-11:00]
+2026-05-28 21:57:49 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 22:00:13 - (Counter Staff) CS002 created appointment: A008 [Customer: C001, Service: S004, Date: 29 May 2026, Time: 11:00-14:00]
+2026-05-28 22:00:14 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 22:04:35 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 22:09:13 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 22:09:15 - (Counter Staff) CS002 [Mason Tan] logout the system.
+2026-05-28 22:09:15 - SYSTEM CLOSED: application terminated by user
+2026-05-28 22:09:35 - (Counter Staff)CS002 opened the counter staff function page.
+2026-05-28 22:09:37 - (Counter Staff)CS002 opened the manage appointmentCounter Staff function.
+2026-05-28 22:10:09 - (Counter Staff) CS002 picked up appointment: A005
+2026-05-29 13:59:30 - (Manager)M002 opened the manager function page.
+2026-05-29 13:59:33 - (Manager) M002 [Jane Doe] logout the system.
+2026-05-29 14:04:56 - (Manager)M002 opened the manager function page.
+2026-05-29 14:05:30 - (Manager) M002 [Jane Doe] logout the system.
+2026-05-29 14:05:51 - (Manager)M002 opened the manager function page.
+2026-05-29 14:05:54 - (Manager)M002 opened the approve reject register request Manager function.
+2026-05-29 14:06:11 - (Manager)M002 opened the manager function page.
+2026-05-29 14:06:13 - (Manager) M002 [Jane Doe] logout the system.
+2026-05-29 14:07:14 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:17 - (Manager)M002 opened the manage user Manager function.
+2026-05-29 14:07:25 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:27 - (Manager)M002 opened the add user Manager function.
+2026-05-29 14:07:28 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:29 - (Manager)M002 opened the manage service Manager function.
+2026-05-29 14:07:32 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:33 - (Manager)M002 opened the view appointment feedback Manager function.
+2026-05-29 14:07:50 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:51 - (Manager)M002 opened the manage service Manager function.
+2026-05-29 14:07:53 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:54 - (Manager)M002 opened the view appointment feedback Manager function.
+2026-05-29 14:07:56 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:57 - (Manager)M002 opened the view appointment feedback Manager function.
+2026-05-29 14:07:58 - (Manager)M002 opened the manager function page.
+2026-05-29 14:07:59 - (Manager)M002 opened the view report Manager function.
+2026-05-29 14:08:02 - (Manager)M002 opened the manager function page.
+2026-05-29 14:08:03 - (Manager)M002 opened the view report Manager function.
+2026-05-29 14:08:36 - (Manager)M002 opened the manager function page.
+2026-05-29 14:08:37 - (Manager)M002 opened the anouncement center Manager function.
+2026-05-29 14:08:40 - (Manager)M002 opened the manager function page.
+2026-05-29 14:08:43 - (Manager) M002 [Jane Doe] logout the system.
+2026-05-29 14:10:06 - (Manager)M002 opened the manager function page.
+2026-05-29 14:10:12 - (Manager)M002 opened the approve reject register request Manager function.
+2026-05-29 14:10:21 - (Manager) M002 approve a registration request: jamy@gmail.com(Counter Staff)
+2026-05-29 14:10:25 - (Manager)M002 opened the manager function page.
+2026-05-29 14:10:27 - (Manager)M002 opened the manage user Manager function.
+2026-05-29 14:10:33 - (Manager)M002 opened the manager function page.
+2026-05-29 14:10:34 - (Manager)M002 opened the approve reject register request Manager function.
+2026-05-29 14:10:39 - (Manager) M002 reject a registration request: kimber@gmail.com(Counter Staff)
+2026-05-29 14:10:42 - (Manager)M002 opened the manager function page.
+2026-05-29 14:10:43 - (Manager)M002 opened the manage user Manager function.
+2026-05-29 14:11:06 - (Manager)M002 opened the edit user Manager function.
+2026-05-29 14:11:14 - (Manager) M002 updated user profile: CS002
+2026-05-29 14:11:16 - (Manager)M002 opened the manage user Manager function.
+2026-05-29 14:11:25 - User Deleted: Jamy (CS006) was removed from the system.
+2026-05-29 14:11:25 - (Manager) M002 deleted user: CS006 (Jamy)
+2026-05-29 14:11:41 - (Manager)M002 opened the manager function page.
+2026-05-29 14:11:43 - (Manager)M002 opened the add user Manager function.
+2026-05-29 14:12:07 - (Manager) M002 added new user: hunter@gmail.com [Technician]
+2026-05-29 14:12:10 - (Manager)M002 opened the manager function page.
+2026-05-29 14:12:11 - (Manager)M002 opened the manage user Manager function.
+2026-05-29 14:12:15 - (Manager)M002 opened the manager function page.
+2026-05-29 14:12:19 - (Manager)M002 opened the manage service Manager function.
+2026-05-29 14:12:51 - (Manager)M002 added new service: Tire Balancing | Type: Normal | RM 100.00
+2026-05-29 14:12:52 - (Manager)M002 opened the manage service Manager function.
+2026-05-29 14:13:13 - (Manager)M002 edited service S007 | OLD: Tire Balancing (Normal) RM 100.00 → NEW: Tire Balancing (Normal) RM 80.00
+2026-05-29 14:13:15 - (Manager)M002 opened the manage service Manager function.
+2026-05-29 14:13:28 - (Manager)M002 opened the manager function page.
+2026-05-29 14:13:31 - (Manager)M002 opened the view appointment feedback Manager function.
+2026-05-29 14:14:00 - (Manager) M002 deleted comment: Quick service; engine runs smoother now from appointment: A002
+2026-05-29 14:14:07 - (Manager)M002 opened the manager function page.
+2026-05-29 14:14:10 - (Manager)M002 opened the view report Manager function.
+2026-05-29 14:15:22 - (Manager)M002 opened the manager function page.
+2026-05-29 14:15:24 - (Manager)M002 opened the view system log Manager function.
+2026-05-29 14:16:18 - (Manager) M002 cleared the system logs of MARCH, 2026
+2026-05-29 14:16:23 - (Manager) M002 cleared the system logs of APRIL, 2026
+2026-05-29 14:16:25 - (Manager)M002 opened the manager function page.
+2026-05-29 14:16:27 - (Manager)M002 opened the anouncement center Manager function.
+2026-05-29 14:16:51 - (Manager)M002 sent announcement to role Counter Staff at 2026-05-29 14:16:51
+2026-05-29 14:17:16 - (Manager)M002 sent announcement to user T005 at 2026-05-29 14:17:16
+2026-05-29 14:17:21 - (Manager)M002 opened the manager function page.
+2026-05-29 14:17:27 - (Manager) M002 [Jane Doe] logout the system.
+2026-05-29 14:17:42 - (Technician)T005 opened the technician function page.
+2026-05-29 14:17:45 - (Technician)T005 opened the anouncement center Technician function.
+2026-05-29 14:17:51 - (Technician)T005 opened the technician function page.
+2026-05-29 14:17:54 - (Technician) T005 [Hunter] logout the system.
